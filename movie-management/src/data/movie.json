@@ -1,0 +1,97 @@
+{
+    "name" : "Godzilla",
+    "imageURL" : "https://images.theconversation.com/files/392328/original/file-20210329-23-c1eknf.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop",
+    "overview" : "Godzilla is a 2014 American monster film directed by Gareth Edwards. It is a reboot of Toho's Godzilla franchise and is the 30th film in the Godzilla franchise, the first film in Legendary's MonsterVerse, and the second Godzilla film to be completely produced by a Hollywood studio.Godzilla (2014 film) - Wikipediahttps://en.wikipedia.org › wiki › Godzilla_(2014_film)Cast: Millie Bobby Brown, Sally Hawkins, Zhang Ziyi, MOREDirectors: Adam Wingard, Ishirō Honda, Gareth Edwards, MORE",
+    "rating" : "4.3/5",
+    "movieType" : "Graphics",
+    "price" : "100"  
+}
+
+{
+    "name" : "King Kong",
+    "imageURL" : "https://m.media-amazon.com/images/M/MV5BMjYxYmRlZWYtMzAwNC00MDA1LWJjNTItOTBjMzlhNGMzYzk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "overview" : "Filmmaker Carl Denham and his crew encounter a giant ape in Skull Island and imprison it to bring it to New York. However, they land in trouble when the giant ape is set free in the city.Initial release: 5 December 2005 (USA)Director: Peter JacksonBudget: $207 millionBox office: $562.3 millionAdapted from: King Kong",
+    "rating" : "4.4/5",
+    "movieType" : "Graphics",
+    "price" : "100"  
+}
+{
+    "name" : "Narnia",
+    "imageURL" : "https://flxt.tmsimg.com/assets/p90695_p_v10_ab.jpg",
+    "overview" : "The Chronicles of Narnia series of films is based on The Chronicles of Narnia, a series of novels by C. S. Lewis. From the seven books, three were adapted—The Lion, the Witch and the Wardrobe, Prince Caspian, and The Voyage of the Dawn Treader —which collectively grossed over $1.5 billion worldwide. WikipediaRelease date: 1: 9 December 2005; 2: 16 May 2008; 3: 10 December 2010Produced by: Mark Johnson (1–3); Philip Steuer (1–3); Andrew Adamson (2–3)Adapted from: The Chronicles of NarniaCast: Anna Popplewell, Georgie Henley, William Moseley, MORECharacters: Lucy Pevensie, Edmund Pevensie, Mr. Tumnus, Aslan, MORE",
+    "rating" : "4.2/5",
+    "movieType" : "Graphics",
+    "price" : "300"  
+}
+{
+    "name" : "Harry Potter",
+    "imageURL" : "https://i.pinimg.com/originals/82/df/7c/82df7c6308bdecd69b859cc6d9e20db1.jpg",
+    "overview" : "Harry Potter is a film series based on the eponymous novels by J. K. Rowling. The series is distributed by Warner Bros. and consists of eight fantasy films, beginning with Harry Potter and the Philosopher's Stone and culminating with Harry Potter and the Deathly Hallows – Part 2. WikipediaRelease date: 2001–2011Box office: Total (8 films); $7.7 billionBudget: Total (8 films); $1.2 billionMovies: Harry Potter and the Philosopher's Stone, MOREDirectors: David Yates, Chris Columbus, Alfonso Cuarón, Mike Newell",
+    "rating" : "4.2/5",
+    "movieType" : "Graphics",
+    "price" : "300"  
+}
+{
+    "name" : "F9",
+    "imageURL" : "https://i.ytimg.com/vi/aSiDu3Ywi8E/maxresdefault.jpg",
+    "overview" : "Dom Toretto is living the quiet life off the grid with Letty and his son, but they know that danger always lurks just over the peaceful horizon. This time, that threat forces Dom to confront the sins of his past to save those he loves most. His crew soon comes together to stop a world-shattering plo… MOREInitial release: 1 April 2021 (Italy)Director: Justin LinBox office: $594.7 millionBudget: $200-225 millionProducers: Vin Diesel, Justin Lin, Samantha Vincent, Jeff Kirschenbaum, Clayton Townsend, Neal H. Moritz, Joe Roth",
+    "rating" : "4.5/5",
+    "movieType" : "Gaming",
+    "price" : "200"  
+}
+{
+    "name" : "Joker",
+    "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKLiEyyz1Q9RC8EBYl3ijr3nuGeyO2ETmwy6Kdq0AQtD0elWD",
+    "overview" : "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City. Arthur wears two masks -- the one he paints for his day job as a clown, and the guise he projects in a futile attempt to feel like he's part of the world around him. Isolated, bullied and … MORERelease date: 2 October 2019 (India)Director: Todd PhillipsBox office: 107.43 crores USDAwards: Academy Award for Best Actor in a Leading Role, MOREProducers: Todd Phillips, Bradley Cooper, Emma Tillinger",
+    "rating" : "4.5/5",
+    "movieType" : "Family",
+    "price" : "200"  
+}
+{
+    "name" : "The Dark Knight",
+    "imageURL" : "https://contentserver.com.au/assets/598411_p173378_p_v8_au.jpg",
+    "overview" : "After Gordon, Dent and Batman begin an assault on Gotham's organised crime, the mobs hire the Joker, a psychopathic criminal mastermind who offers to kill Batman and bring the city to its knees.Release date: 18 July 2008 (India)Director: Christopher NolanBox office: 100.5 crores USDAwards: Academy Award for Best Supporting Actor, MOREBudget: 18 crores USD, 18.5 crores USD",
+    "rating" : "4.3/5",
+    "movieType" : "Action",
+    "price" : "200"  
+}
+{
+    "name" : "Aliens 1986",
+    "imageURL" : "https://flxt.tmsimg.com/assets/p9384_p_v10_as.jpg",
+    "overview" : "llen Ripley is sent back to the planet LV-426 to establish contact with a terraforming colony. Once there, she encounters the Alien Queen and her offspring and has to fight them to survive.Release date: 11 July 1987 (India)Director: James CameronFilm series: AlienBudget: 1.85 crores USDAwards: Academy Award for Best Visual Effects, MORE",
+    "rating" : "4.3/5",
+    "movieType" : "Action",
+    "price" : "200"  
+}
+{
+    "name" : "Avengers",
+    "imageURL" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTp0qlAoWcOOswIkL_qpjYzJqCCDmWXiBzCXiqbE43Obo8c0Z-s",
+    "overview" : "Nick Fury is compelled to launch the Avengers Initiative when Loki poses a threat to planet Earth. His squad of superheroes put their minds together to accomplish the task.Release date: 27 April 2012 (India)Director: Joss WhedonFeatured song: Live to RiseBox office: 151.9 crores USDCast: Scarlett Johansson, Chris Hemsworth, Robert Downey Jr., MORE",
+    "rating" : "4.5/5",
+    "movieType" : "Action",
+    "price" : "200"  
+}
+{
+    "name" : "Baahubali: The Beginning",
+    "imageURL" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnIM8CU0VO9BpthgIHGJM_mG6xDcC5uOpY-FIuILs0r4wJcc6F",
+    "overview" : "In the kingdom of Mahishmati, Shivudu falls in love with a young warrior woman. While trying to woo her, he learns about the conflict-ridden past of his family and his true legacy.Release date: 10 July 2015 (India)Director: S. S. RajamouliStory by: K. V. Vijayendra PrasadBox office: est. ₹680 crore",
+    "rating" : "4.2/5",
+    "movieType" : "Action",
+    "price" : "200"  
+}
+{
+    "name" : "Jurassic Park",
+    "imageURL" : "https://m.media-amazon.com/images/I/816wlBnZx2L._SL1500_.jpg",
+    "overview" : "John Hammond, an entrepreneur, opens a wildlife park containing cloned dinosaurs. However, a breakdown of the island's security system causes the creatures to escape and bring about chaos.Release date: 15 April 1994 (India)Director: Steven SpielbergStory by: Michael CrichtonBox office: 103.4 crores USDScreenplay: Michael Crichton, David Koepp",
+    "rating" : "4.2/5",
+    "movieType" : "Action",
+    "price" : "200"  
+}
+{
+    "name" : "The Lion King",
+    "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2iMzH39dcj9KZeoulk18_LyeeoNIm5a26-2F80NY7rlVofiz",
+    "overview" : "As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne.Initial release: 7 May 1994 (Mexico)Directors: Rob Minkoff, Roger AllersCast: Jeremy Irons, Matthew Broderick, James Earl Jones, MOREStory by: Chris Sanders, Joe Ranft, Jorgen Klubien, MORE",
+    "rating" : "4.2/5",
+    "movieType" : "Action",
+    "price" : "200"  
+}

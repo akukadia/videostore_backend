@@ -1,0 +1,10 @@
+com\movie\spring\data\mongodb\controller\TVShowController.class
+com\movie\spring\data\mongodb\model\TVShow.class
+com\movie\spring\data\mongodb\repository\TVShowRepository.class
+com\movie\spring\data\mongodb\controller\MovieController.class
+com\movie\spring\data\mongodb\model\User.class
+com\movie\spring\data\mongodb\controller\UserController.class
+com\movie\spring\data\mongodb\SpringBootDataMongodbApplication.class
+com\movie\spring\data\mongodb\repository\UserRepository.class
+com\movie\spring\data\mongodb\model\Movie.class
+com\movie\spring\data\mongodb\repository\MovieRepository.class
